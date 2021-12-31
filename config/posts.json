@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "content": "其实早在年中就开始酝酿着一篇这样的总结，这一年与我而言实在是太丰富了。\n<!-- more -->\n我一直在想用什么词语概括今年的状态，想不清楚，就像这片博客的主图，换了又换。",
+      "data": {
+        "title": "写在2021年尾巴上",
+        "date": "2021-12-30 23:44:07",
+        "tags": [],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/xie-zai-2021-nian-wei-ba-shang.jpg",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "其实早在年中就开始酝酿着一篇这样的总结，这一年与我而言实在是太丰富了。",
+      "fileName": "xie-zai-2021-nian-wei-ba-shang"
+    },
+    {
+      "content": "暂定哈哈哈",
+      "data": {
+        "title": "所有伟大都源于勇敢的开始",
+        "date": "2021-12-30 23:36:58",
+        "tags": [],
+        "published": true,
+        "hideInList": false,
+        "feature": null,
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "suo-you-wei-da-du-yuan-yu-yong-gan-de-kai-shi"
+    },
+    {
+      "content": "> 欢迎来到我的小站呀，很高兴遇见你！🤝\n\n## 🏠 关于本站\n一肚子话没处说的社恐人士的自留地。\n\n## 👨‍💻 博主是谁\n为爱发电的小破站程序员一个。\n\n## ⛹ 兴趣爱好\n什么都会一点的求知欲爆棚的三分钟热度选手。\n\n## 📬 联系我呀\n**email:** njustjiaweihan@163.com",
+      "data": {
+        "title": "关于",
+        "date": "2019-01-25 19:09:48",
+        "tags": [],
+        "published": true,
+        "hideInList": true,
+        "feature": null,
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "about"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gridea",
+      "slug": "O9AxiUpny",
+      "used": false
+    }
+  ],
+  "menus": [
+    {
+      "link": "/",
+      "name": "首页",
+      "openType": "Internal"
+    },
+    {
+      "link": "/archives",
+      "name": "归档",
+      "openType": "Internal"
+    },
+    {
+      "link": "/tags",
+      "name": "标签",
+      "openType": "Internal"
+    },
+    {
+      "link": "/post/about",
+      "name": "关于",
+      "openType": "Internal"
+    }
+  ]
+}

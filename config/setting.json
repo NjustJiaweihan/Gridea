@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "colin-blog.top",
+    "domain": "https://njustjiaweihan.github.io",
+    "email": "1390445546@qq.com",
+    "platform": "github",
+    "repository": "Njustjiaweihan.github.io",
+    "token": "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",
+    "username": "NjustJiaweihan"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
